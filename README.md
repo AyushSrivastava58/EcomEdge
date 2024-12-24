@@ -46,7 +46,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/prashant-sagar-shakya/EcomEdge.git
+    git clone  https://github.com/AyushSrivastava58/EcomEdge.git
     ```
 
 2. **Install Dependencies:**
